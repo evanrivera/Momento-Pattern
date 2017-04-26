@@ -4,3 +4,5 @@ public class Originator{
    }
    
     public void getState(String);
+    
+ }
